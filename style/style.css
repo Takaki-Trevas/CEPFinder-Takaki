@@ -1,0 +1,20 @@
+body {
+    background-color: #e6f4ea;
+}
+
+.middlePage{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+}
+
+.logo{
+    margin-top: center;
+
+}
+
+.h2tituloCon{
+    text-align: center;
+    color: #2e7d32;
+}
