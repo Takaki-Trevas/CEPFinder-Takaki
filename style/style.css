@@ -10,11 +10,12 @@ body {
 }
 
 .logo{
-    margin-top: center;
-
+    margin: 0 auto;
+    
 }
 
 .h2tituloCon{
     text-align: center;
     color: #2e7d32;
 }
+
